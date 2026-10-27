@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-hidden="true">
+<rect width="1200" height="800" fill="#E0F2FE"/>
+<g fill="none" stroke="#1E3A8A" stroke-opacity=".08" stroke-width="1">
+<path d="M100 0V800"/><path d="M200 0V800"/><path d="M300 0V800"/><path d="M400 0V800"/><path d="M500 0V800"/><path d="M600 0V800"/><path d="M700 0V800"/><path d="M800 0V800"/><path d="M900 0V800"/><path d="M1000 0V800"/><path d="M1100 0V800"/>
+<path d="M0 100H1200"/><path d="M0 200H1200"/><path d="M0 300H1200"/><path d="M0 400H1200"/><path d="M0 500H1200"/><path d="M0 600H1200"/><path d="M0 700H1200"/>
+</g>
+<g transform="translate(600 520)">
+<path d="M-300 0 A300 300 0 0 1 300 0" fill="none" stroke="#CBD5E1" stroke-width="54" stroke-opacity=".5"/>
+<path d="M-300 0 A300 300 0 0 1 -40 -297" fill="none" stroke="#C2410C" stroke-width="54"/>
+<path d="M-40 -297 A300 300 0 0 1 300 0" fill="none" stroke="#1E3A8A" stroke-width="54"/>
+<g transform="rotate(-18)"><path d="M0 0 L0 -250" stroke="#172554" stroke-width="12" stroke-linecap="round"/></g>
+<circle r="22" fill="#172554"/>
+</g>
+</svg>

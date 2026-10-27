@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-hidden="true">
+<rect width="1200" height="800" fill="#E0F2FE"/>
+<g fill="none" stroke="#1E3A8A" stroke-opacity=".08" stroke-width="1">
+<path d="M100 0V800"/><path d="M200 0V800"/><path d="M300 0V800"/><path d="M400 0V800"/><path d="M500 0V800"/><path d="M600 0V800"/><path d="M700 0V800"/><path d="M800 0V800"/><path d="M900 0V800"/><path d="M1000 0V800"/><path d="M1100 0V800"/>
+<path d="M0 100H1200"/><path d="M0 200H1200"/><path d="M0 300H1200"/><path d="M0 400H1200"/><path d="M0 500H1200"/><path d="M0 600H1200"/><path d="M0 700H1200"/>
+</g>
+<g>
+<path d="M200 420H1000" stroke="#1E3A8A" stroke-width="4"/>
+<g><circle cx="200" cy="420" r="18" fill="#C2410C"/><circle cx="400" cy="420" r="18" fill="#C2410C"/><circle cx="600" cy="420" r="18" fill="#1E3A8A"/><circle cx="800" cy="420" r="18" fill="#1E3A8A"/><circle cx="1000" cy="420" r="18" fill="#1E3A8A"/></g>
+<g fill="#1E3A8A" fill-opacity=".18"><rect x="160" y="330" width="80" height="10" rx="5"/><rect x="360" y="470" width="80" height="10" rx="5"/><rect x="560" y="330" width="80" height="10" rx="5"/><rect x="760" y="470" width="80" height="10" rx="5"/><rect x="960" y="330" width="80" height="10" rx="5"/></g>
+<g fill="#1E3A8A" fill-opacity=".35"><rect x="200" y="330" width="1" height="90" stroke="#CBD5E1"/><rect x="400" y="470" width="1" height="-50" stroke="#CBD5E1"/><rect x="600" y="330" width="1" height="90" stroke="#CBD5E1"/><rect x="800" y="470" width="1" height="-50" stroke="#CBD5E1"/><rect x="1000" y="330" width="1" height="90" stroke="#CBD5E1"/></g>
+</g>
+</svg>

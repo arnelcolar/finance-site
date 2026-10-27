@@ -9,9 +9,8 @@ insurance and retirement. Static HTML with Tailwind from a CDN, no build step.
 - `REPORT.md` — the accessibility pass: contrast pairs measured, headings,
   labels, table scopes, skip link
 
-## Known issue
+## Images
 
-All 56 photographs point at `lh3.googleusercontent.com/aida/...` URLs that now
-return 403. They were generated through Google's image service and are no
-longer served, so the pages render with empty image frames until they are
-replaced.
+Photographs in `assets/img/` are CC0 / CC BY / CC BY-SA from Openverse, credited
+in `CREDITS.md`. The card, dashboard and chart graphics in `assets/img/svg/`
+are drawn for this site.
